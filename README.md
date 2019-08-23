@@ -1,12 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Translating-React
 
-## Available Scripts
+A react module to internationalize your whole application easily. All you need to do is feed a translated data to the component and it'll translate all the labels based on the language selected.
 
-In the project directory, you can run:
-
-### `npm install translating-react`
-
-Install the npm package<br>
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+It's still in it's initial phase of development.
