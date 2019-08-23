@@ -1,0 +1,28 @@
+{
+  "name": "translating-react",
+  "version": "0.0.1",
+  "description": "A React module to internationalize your apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reflex-Gravity/translating-react.git"
+  },
+  "keywords": [
+    "internationlization",
+    "locale",
+    "intl",
+    "i18n",
+    "react",
+    "translate",
+    "globalization"
+  ],
+  "author": "Reflex_Gravity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Reflex-Gravity/translating-react/issues"
+  },
+  "homepage": "https://github.com/Reflex-Gravity/translating-react#readme"
+}
