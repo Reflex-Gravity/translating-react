@@ -5,3 +5,7 @@ A react module to internationalize your whole application easily. All you need t
 Example:
 
 https://codesandbox.io/s/reacttranslate-jz9n2.
+
+Example using React Hooks:
+
+https://codesandbox.io/s/reacttranslate-in-hooks-3v5c1
